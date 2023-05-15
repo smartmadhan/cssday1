@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  div {
+    margin: 100px;
+    border: 15px solid rgb(90, 26, 194);
+    width: 300px;
+    
+    padding: 50px;
+   
+  }
+
+  p.ex1 {
+    border: 10px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: 8px;
+  }
+
+  h1{
+    text-shadow: -10px 0px 7px black;
+  }
